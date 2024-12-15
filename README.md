@@ -9,4 +9,4 @@
 - 👋 Enough for today, Bbye!
 
 # Connect with me 
-[!  [LinkedIn]] (https://www.linkedin.com/in/jinalpatel1812/)
+[LinkedIn] (https://www.linkedin.com/in/jinalpatel1812/)
