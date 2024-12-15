@@ -1,4 +1,4 @@
-![Header Image](./image/background.jpg)
+![Header Image](./image/Frame%204.png)
 
 # Hey, there....👋
 - 😈 Jinal this side.
