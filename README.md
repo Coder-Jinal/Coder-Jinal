@@ -1,6 +1,3 @@
-# CoderJinal
-My Personal Profile
-
 ![Header Image](./image/background.jpg)
 
 # Hey, there....👋
