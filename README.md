@@ -8,3 +8,6 @@
 - 🤷‍♀️ What else...?
 - 🤙 If you want to contact me, Here is my linked profile [https://www.linkedin.com/in/jinalpatel1812/]
 - 👋 Enough for today, Bbye!
+
+# Connect with me 
+[LinkedIn] (https://www.linkedin.com/in/jinalpatel1812/)
