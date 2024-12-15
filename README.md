@@ -1,16 +1,13 @@
-## Hi there 👋
+# CoderJinal
+My Personal Profile
 
-<!--
-**Coder-Jinal/Coder-Jinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image](./image/background.jpg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hey, there....👋
+- 😈 Jinal this side.
+- 👩‍🎓 I'm a student at Humber college. 
+- 😎 I'm fluent with HTML, CSS and JavaScript.
+- 😉 I'm foodie. So, you can consider it as my hobby.
+- 🤷‍♀️ What else...?
+- 🤙 If you want to contact me, Here is my linked profile [https://www.linkedin.com/in/jinalpatel1812/]
+- 👋 Enough for today, Bbye!
